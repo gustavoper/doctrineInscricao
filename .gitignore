@@ -1,0 +1,7 @@
+.vagrant/
+.project/
+.DS_Store/
+.buildpath
+.settings/
+bootstrap.php
+vendor/
