@@ -5,3 +5,4 @@
 .settings/
 bootstrap.php
 vendor/
+composer.lock
