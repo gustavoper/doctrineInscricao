@@ -53,7 +53,7 @@ class User {
     
     
     /**
-     * @ORM\OneToMany(targetEntity="Subscription",mappedBy="user", cascade={"all"})
+     * @ORM\OneToMany(targetEntity="Subscription",mappedBy="Event", cascade={"all"})
      * 
      */
     private $subscription;

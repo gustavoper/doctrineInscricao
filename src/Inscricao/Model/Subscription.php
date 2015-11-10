@@ -1,10 +1,12 @@
-<?php
+<?php 
 namespace Inscricao\Model;
-
 use Doctrine\ORM\Mapping as ORM;
+/**
+ * @ORM\Entity
+ * @ORM\Table(name="Subscription")
+ */
 
-
-class Event {
+class Subscription {
     
     
     /**
