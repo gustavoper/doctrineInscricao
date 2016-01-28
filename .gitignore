@@ -1,6 +1,6 @@
 .vagrant/
 .project/
-.DS_Store
+.DS_Store/
 .buildpath
 .settings/
 bootstrap.php
